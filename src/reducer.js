@@ -1,12 +1,5 @@
-
-import { findAllByDisplayValue } from "@testing-library/react";
-
 export const initialState = {
     user: null,
-
-    //remove after developing
-    //token:
-    //'BQA5i_LP1hiv7cgplFLzduYRfbqN014pmyBJijH40VMDxU3J6VO2vjtUwbmzUSu5dY2BY9x1a5l-bYQBpv7QlUTjxDBsJ0ibuxwjkhROhaK5rxq2GQVqJas_H3PysTfcxiNT9aTic9LSqLbEoS4KTBxb3gmD6teCu1C9GGPq3nPgVZzd',
     playlists: [],
     playing: false,
     item: null,
